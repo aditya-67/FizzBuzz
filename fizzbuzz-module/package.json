@@ -1,0 +1,14 @@
+{
+  "name": "fizzbuzz-module",
+  "version": "1.0.0",
+  "description": "fizzbuzz algo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fizzbuzz"
+  ],
+  "author": "Aditya",
+  "license": "ISC"
+}
